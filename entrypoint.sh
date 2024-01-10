@@ -2,10 +2,10 @@
 
 # 设置各变量
 WSPATH=cyclic  # WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=a12b99c0-d787-4667-bf59-bb25307b7395
+UUID=02d4dc60-36b6-4d36-b8c2-e908b1e917ee
 NEZHA_SERVER= # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-NEZHA_PORT=
-NEZHA_KEY=
+NEZHA_PORT=443
+NEZHA_KEY=6Kf5QzDNLwaaPwSqxq
 
 # 安装系统依赖
 check_dependencies() {
